@@ -1,0 +1,15 @@
+kartunovv@HOME-PC:~/education/python/MHS_fall2025_python/hw_1$ python3 wc.py 1.txt
+18 217 2290 1.txt
+
+kartunovv@HOME-PC:~/education/python/MHS_fall2025_python/hw_1$ python3 wc.py 1.txt 2.txt
+18 217 2290 1.txt
+
+17 200 2038 2.txt
+
+35 417 4328 total
+
+#читает из stdin
+kartunovv@HOME-PC:~/education/python/MHS_fall2025_python/hw_1$ python3 wc.py
+1313123 13123123123 43 4234 23 4234 234 
+
+2 7 42
