@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hw4"
+version = "0.1.0"
+description = "Homework 4"
+requires-python = ">=3.9"
+dependencies = []

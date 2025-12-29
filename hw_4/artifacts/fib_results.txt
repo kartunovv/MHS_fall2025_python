@@ -1,0 +1,6 @@
+=== 4.1: fib(n=500_000), 10 запусков ===
+sync:            13.954 с
+threading:       13.986 с
+multiprocessing:   2.108 с
+
+Вывод: threading почти не ускоряет (GIL), multiprocessing — да.
